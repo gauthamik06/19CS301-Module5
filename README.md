@@ -22,6 +22,9 @@ Step 7:	 Create an instance s1 of the person class by passing the entered name a
 Step 8:	 Terminate the program.
 ### PROGRAM
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 class person:
     def __init__(self,name,userid):
         self.name=name
@@ -56,6 +59,9 @@ Step 6:	  Terminate the program.
 
 ### PROGRAM
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 class student:
     def __init__(self):
         print("Inside Constructor")
@@ -109,6 +115,9 @@ Step 13:	Create an instance student of the Attendance class, passing the entered
 Step 14:	Call the check_eligibility method on the student object and print the result.
 ### PROGRAM
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 class Student:
     def __init__(self, name, student_id):
         self.name = name
@@ -179,6 +188,9 @@ Step 16:	Terminate the program.
 
 ### PROGRAM
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -243,7 +255,11 @@ Step 6:	Create objects of Employee and Doctor using the input.
 Step 7:	Call the display_details() method for both objects to print the details.Step 8:	
 
 ### PROGRAM
-# Parent class Details
+#Name:Gowtham IK
+#Reg no:212222090008
+
+#
+Parent class Details
 class Details:
     def __init__(self, id, name, gender):
         self.id = id
